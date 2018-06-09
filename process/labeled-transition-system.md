@@ -1,1 +1,1 @@
-# Labeled Transition System
+# Labeled Transition System (LTS)
