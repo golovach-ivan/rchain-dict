@@ -7,3 +7,4 @@
 ## See algo
 - [Capability based security](capability-based-security.md)
 - [Object-capability model (OCap)](object-capability-model.md)
+- [Confused deputy problem](confused-deputy-problem.md)
