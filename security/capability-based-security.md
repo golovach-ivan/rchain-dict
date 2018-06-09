@@ -7,6 +7,11 @@ Capability-based security is one of the existing [security models](/security-mod
 
 http://www.evoluware.eu/fsp_thesis.pdf
 
+## See algo
+- [Capability](capability.md)
+- [Object-capability model (OCap)](object-capability-model.md)
+
+
 ## Links
 - [Wiki: Capability-based security](https://en.wikipedia.org/wiki/Capability-based_security)
 
