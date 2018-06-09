@@ -3,7 +3,7 @@
 Мы можем перечислить все слова одного языка, но мы не можем перечислить все языки. Powerset of Т has cardinality 2^N.
 
 ## Examples
-- [Dyke language](/dyke-language.md)
+- [Dyck language](/dyck-language.md)
 - [Int-language](/int-language.md)
 - [Float-language](/float-language.md)
 - [Arithmetic language](arithmetic-language.md)
