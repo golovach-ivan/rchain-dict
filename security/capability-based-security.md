@@ -10,6 +10,7 @@ http://www.evoluware.eu/fsp_thesis.pdf
 ## See algo
 - [Capability](capability.md)
 - [Object-capability model (OCap)](object-capability-model.md)
+- [Confused deputy problem](confused-deputy-problem.md)
 
 
 ## Links
