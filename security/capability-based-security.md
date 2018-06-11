@@ -7,6 +7,9 @@ Capability-based security is one of the existing [security models](/security-mod
 
 ??? http://www.evoluware.eu/fsp_thesis.pdf
 
+??? [Distributed Electronic Rights in JavaScript](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/40673.pdf)
+??? [Capability-based financial instruments](http://www.erights.org/elib/capability/ode/ode.pdf)
+
 ## Capability Patterns
 
 ??? from Stiegler, 2000, ["E in a wallnut"](http://www.skyhunter.com/marcs/ewalnut.html#SEC45)
