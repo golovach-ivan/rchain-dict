@@ -9,6 +9,9 @@ Capability-based security is one of the existing [security models](/security-mod
 
 ??? [Distributed Electronic Rights in JavaScript](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/40673.pdf)
 ??? [Capability-based financial instruments](http://www.erights.org/elib/capability/ode/ode.pdf)
+??? ["a picturebook of secure cooperation"](http://erights.org/talks/efun/SecurityPictureBook.pdf)
+??? [Analysing Object-Capability Security](http://www.cs.ox.ac.uk/people/toby.murray/papers/AOCS-hyperref.pdf)
+??? look for MakeMint.rho (https://www.youtube.com/watch?v=ZnBbi6ifzdo 19:30)
 
 ## Capability Patterns
 
